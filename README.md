@@ -1,1 +1,1 @@
-JavaEE的大作业，springboot+mvc+mybatis+mysql+vue
+JavaEE的大作业，springboot+mybatis+mysql+vue
